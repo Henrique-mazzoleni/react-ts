@@ -1,9 +1,9 @@
-import Parent from './props/Parent';
+import UserSearch from './state/UserSearch';
 
 export default function App() {
   return (
     <div>
-      <Parent />
+      <UserSearch />
     </div>
   );
 }
